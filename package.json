@@ -12,7 +12,6 @@
     "ejs": "0.8.x",
     "assert": "0.x",
     "should": "1.x",
-    "mocha": "1.x",
-    "ejs": "0.8.x"
+    "mocha": "1.x"
   }
 }
