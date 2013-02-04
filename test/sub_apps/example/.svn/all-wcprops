@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/mi7/!svn/ver/38/trunk/test/sub_apps/example
+END
+controller.coffee
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/mi7/!svn/ver/38/trunk/test/sub_apps/example/controller.coffee
+END
+controller.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/mi7/!svn/ver/38/trunk/test/sub_apps/example/controller.js
+END
+config.yml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/mi7/!svn/ver/38/trunk/test/sub_apps/example/config.yml
+END

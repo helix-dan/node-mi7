@@ -1,0 +1,4 @@
+require 'ejs'
+
+class View
+  

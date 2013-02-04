@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/mi7/!svn/ver/36/trunk/config
+END
+environment.js
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/mi7/!svn/ver/36/trunk/config/environment.js
+END
+environment.coffee
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/mi7/!svn/ver/26/trunk/config/environment.coffee
+END
+mi7.yml
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/mi7/!svn/ver/36/trunk/config/mi7.yml
+END
+server.crt
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/mi7/!svn/ver/3/trunk/config/server.crt
+END
+server.key
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/mi7/!svn/ver/3/trunk/config/server.key
+END

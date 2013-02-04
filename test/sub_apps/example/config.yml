@@ -1,0 +1,29 @@
+server:
+  master: 
+    host: 'localhost'
+    port: 8443
+    ssl: true
+  slave: 
+    host: 'localhost'
+    port: 8443
+    ssl: true
+
+redis:
+  master: 
+    host: 'localhost'
+    port: 6379
+
+  slave:
+    host: 'localhost'
+    port: 6379
+
+router:
+  act: 
+    - set
+  scr: 
+    - login
+    - login01
+    - _login02
+    - _login03
+    - _reg02
+  
