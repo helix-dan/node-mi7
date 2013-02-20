@@ -1,0 +1,9 @@
+{
+  "author": "",
+  "name": "mi7-myself",
+  "version": "0.0.0",
+  "dependencies": {
+    "underscore": "1.4.x",
+    "js-yaml": "1.x"
+  }
+}
